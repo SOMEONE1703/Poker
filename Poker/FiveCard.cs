@@ -23,23 +23,19 @@ class FiveCard : IPoker
             "Straight Flush",
             "Four of a Kind",
             "Full House",
+            "Flush",
             "Straight",
             "Three of a Kind",
             "Two Pair",
             "One Pair",
             "Kicker"
         };
-        while (true)
+        while (FirstEval.Count > 0 && SecondEval.Count > 0)
         {
-            if (FirstEval.Count == 0 || SecondEval.Count == 0)
-            {
-                Console.WriteLine("Hands are Tied");
-                return "Hands are Tied";
-            }
             var FirstTemp = FirstEval.First();
             var SecondTemp = SecondEval.First();
-            FirstEval.Remove(FirstTemp);
-            SecondEval.Remove(SecondTemp);
+            FirstEval.RemoveAt(0);
+            SecondEval.RemoveAt(0);
             for (int i = 0; i < hierarchy.Length; i++)
             {
                 if (hierarchy[i]==FirstTemp.Strength && hierarchy[i] == SecondTemp.Strength)
@@ -70,6 +66,8 @@ class FiveCard : IPoker
                 }
             }
         }
+        Console.WriteLine("Hands are Tied");
+        return "Hands are Tied";
     }
 
 

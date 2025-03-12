@@ -40,6 +40,7 @@ class FiveCardHand:IPokerHand
             Ranks[_cards[i].Rank + 2]++;
         }
         strengths.Insert(0, ("Kicker", _cards.Select(_card=>_card.Rank).ToArray()));
+        
         for (int i = 0; i < 13; i++)
         {
             if (Ranks[i] == 2)

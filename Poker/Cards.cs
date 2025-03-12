@@ -45,6 +45,17 @@ class Cards//:IEnumerable
         }
     }
 
+    public List<Card> Deal()
+    {
+        List<Card> dealt = new();
+        for (int p = 0; p < 5; p++)
+        {
+            dealt.Add(_cards.First());
+            _cards.RemoveAt(0);
+        }
+        return dealt;
+    }
+
     public Cards Sort()
     {
         _cards.Sort();

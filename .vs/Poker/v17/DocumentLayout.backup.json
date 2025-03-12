@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\siphe\\source\\repos\\Poker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4B84DAAC-3676-439C-B888-D2CA93E1B970}|Poker\\Poker.csproj|c:\\users\\siphe\\source\\repos\\poker\\poker\\fivecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84DAAC-3676-439C-B888-D2CA93E1B970}|Poker\\Poker.csproj|solutionrelative:poker\\fivecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4B84DAAC-3676-439C-B888-D2CA93E1B970}|Poker\\Poker.csproj|c:\\users\\siphe\\source\\repos\\poker\\poker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B84DAAC-3676-439C-B888-D2CA93E1B970}|Poker\\Poker.csproj|solutionrelative:poker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84DAAC-3676-439C-B888-D2CA93E1B970}|Poker\\Poker.csproj|c:\\users\\siphe\\source\\repos\\poker\\poker\\fivecardhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84DAAC-3676-439C-B888-D2CA93E1B970}|Poker\\Poker.csproj|solutionrelative:poker\\fivecardhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84DAAC-3676-439C-B888-D2CA93E1B970}|Poker\\Poker.csproj|c:\\users\\siphe\\source\\repos\\poker\\poker\\ipoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84DAAC-3676-439C-B888-D2CA93E1B970}|Poker\\Poker.csproj|solutionrelative:poker\\ipoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84DAAC-3676-439C-B888-D2CA93E1B970}|Poker\\Poker.csproj|c:\\users\\siphe\\source\\repos\\poker\\poker\\cards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84DAAC-3676-439C-B888-D2CA93E1B970}|Poker\\Poker.csproj|solutionrelative:poker\\cards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84DAAC-3676-439C-B888-D2CA93E1B970}|Poker\\Poker.csproj|c:\\users\\siphe\\source\\repos\\poker\\poker\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84DAAC-3676-439C-B888-D2CA93E1B970}|Poker\\Poker.csproj|solutionrelative:poker\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B84DAAC-3676-439C-B888-D2CA93E1B970}|Poker\\Poker.csproj|c:\\users\\siphe\\source\\repos\\poker\\poker\\ipokerhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B84DAAC-3676-439C-B888-D2CA93E1B970}|Poker\\Poker.csproj|solutionrelative:poker\\ipokerhand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +38,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FiveCardHand.cs",
+              "DocumentMoniker": "C:\\Users\\siphe\\source\\repos\\Poker\\Poker\\FiveCardHand.cs",
+              "RelativeDocumentMoniker": "Poker\\FiveCardHand.cs",
+              "ToolTip": "C:\\Users\\siphe\\source\\repos\\Poker\\Poker\\FiveCardHand.cs",
+              "RelativeToolTip": "Poker\\FiveCardHand.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:46:15.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\siphe\\source\\repos\\Poker\\Poker\\Card.cs",
+              "RelativeDocumentMoniker": "Poker\\Card.cs",
+              "ToolTip": "C:\\Users\\siphe\\source\\repos\\Poker\\Poker\\Card.cs",
+              "RelativeToolTip": "Poker\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:04:27.643Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FiveCard.cs",
+              "DocumentMoniker": "C:\\Users\\siphe\\source\\repos\\Poker\\Poker\\FiveCard.cs",
+              "RelativeDocumentMoniker": "Poker\\FiveCard.cs",
+              "ToolTip": "C:\\Users\\siphe\\source\\repos\\Poker\\Poker\\FiveCard.cs",
+              "RelativeToolTip": "Poker\\FiveCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:03:36.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPokerHand.cs",
+              "DocumentMoniker": "C:\\Users\\siphe\\source\\repos\\Poker\\Poker\\IPokerHand.cs",
+              "RelativeDocumentMoniker": "Poker\\IPokerHand.cs",
+              "ToolTip": "C:\\Users\\siphe\\source\\repos\\Poker\\Poker\\IPokerHand.cs",
+              "RelativeToolTip": "Poker\\IPokerHand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:54:31.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cards.cs",
+              "DocumentMoniker": "C:\\Users\\siphe\\source\\repos\\Poker\\Poker\\Cards.cs",
+              "RelativeDocumentMoniker": "Poker\\Cards.cs",
+              "ToolTip": "C:\\Users\\siphe\\source\\repos\\Poker\\Poker\\Cards.cs",
+              "RelativeToolTip": "Poker\\Cards.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:14:33.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPoker.cs",
+              "DocumentMoniker": "C:\\Users\\siphe\\source\\repos\\Poker\\Poker\\IPoker.cs",
+              "RelativeDocumentMoniker": "Poker\\IPoker.cs",
+              "ToolTip": "C:\\Users\\siphe\\source\\repos\\Poker\\Poker\\IPoker.cs",
+              "RelativeToolTip": "Poker\\IPoker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:04:39.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\siphe\\source\\repos\\Poker\\Poker\\Program.cs",
               "RelativeDocumentMoniker": "Poker\\Program.cs",
               "ToolTip": "C:\\Users\\siphe\\source\\repos\\Poker\\Poker\\Program.cs",
               "RelativeToolTip": "Poker\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T16:59:06.11Z",
               "EditorCaption": ""
